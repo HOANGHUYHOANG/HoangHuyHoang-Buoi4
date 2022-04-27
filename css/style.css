@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#html {
+    font-family: sans-serif
+}
+
+.img {
+    padding: 1rem 1rem;
+    width: 500px;
+    height: 500px;
+    /* position: relative; */
+    display: contents;
+    /* position: relative; */
+}
+
+.img img {
+    width: 100%;
+    height: auto;
+}
+
+#thongtin li a {
+    text-decoration: none;
+}
+
+#thongtin .giatien {
+    color: orange;
+    padding: 6px 3rem;
+}
+
+
+/* body {
+    background-image: url(/image/beverly.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+    background-size: w;
+} */
+
+#tolon {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 2rem 2rem;
+}
+
+#canho .duan {
+    color: aqua;
+    padding: 0px;
+    display: inline-block;
+    position: absolute;
+    top: 300px;
+    left: 250px;
+    background-color: black;
+    opacity: 0.5;
+}
+
+#canho {
+    position: relative;
+}
